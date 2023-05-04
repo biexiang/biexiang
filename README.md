@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biexiang&label=Profile%20views&color=0e75b6&style=flat" alt="biexiang" /> </p>
 
-- 🔭 I’m currently working on [TinyKv](https://github.com/talent-plan/tinykv-biexiang)
+- 🔭 I’m currently working on Shopee
 
 - 🌱 I’m currently learning **Database,Rust**
 
 - 👯 I’m looking to collaborate on **Reading DDIA Book**
 
-- 🤝 I’m looking for help with **Building a project In Rust**
+- 🤝 I’m looking for help with [TinyKv](https://github.com/talent-plan/tinykv-biexiang)
 
 - 📝 I regularly write articles on [ileopold.cn](ileopold.cn)
 
